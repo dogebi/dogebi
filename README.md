@@ -20,8 +20,8 @@ hi, i'm [Abhishek Naidu](https://abhishknads.me/), a passionate self-taught full
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-![code](https://user-images.githubusercontent.com/25998022/165965658-e3ba3be0-b101-4ad7-b3f1-c4e54468624d.gif)
 
+  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/25998022/165965771-f6f48156-f10c-422a-9008-2549fe80e0fd.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:rainxlh@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
